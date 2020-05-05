@@ -1,6 +1,7 @@
 ## 20200505
 * enable adguard-home
     - test
+    - test2
 
 ## 20200418
 * 集成 luci-app-r2sflasher
