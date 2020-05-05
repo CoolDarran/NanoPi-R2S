@@ -1,3 +1,6 @@
+## 20200505
+* enable adguard-home
+
 ## 20200418
 * 集成 luci-app-r2sflasher
 
@@ -30,7 +33,7 @@
     - [COMFAST 726B](https://u.jd.com/DOkkhX)
     - [COMFAST CF-759BF](https://u.jd.com/C2ivH7)
 * 官方 Kernel 更新到 5.4.22
-* 更新 argon 主题 
+* 更新 argon 主题
 * 官方修复 LED 问题
 
 ## 20200226
