@@ -1,7 +1,10 @@
+## 20200508
+* 集成 smartdns
+* 集成 luci-app-smartdns
+* Clash 更新到 0.20.0
+
 ## 20200505
 * enable adguard-home
-    - test
-    - test2
 
 ## 20200418
 * 集成 luci-app-r2sflasher
