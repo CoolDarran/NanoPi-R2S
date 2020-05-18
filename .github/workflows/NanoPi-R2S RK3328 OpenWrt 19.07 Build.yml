@@ -71,22 +71,22 @@ jobs:
           rm -rf lean/luci-theme-argon
           git clone -b 18.06 https://github.com/jerrykuku/luci-theme-argon.git
 
-          git clone https://github.com/vernesong/OpenClash
+          git clone -b master https://github.com/vernesong/OpenClash
           mv OpenClash/luci-app-openclash/ .
           rm -rf OpenClash/
 
           git clone https://github.com/songchenwen/nanopi-r2s
           mv nanopi-r2s/luci-app-r2sflasher/ .
           rm -rf nanopi-r2s/
-          
+
           git clone https://github.com/pymumu/smartdns.git
           mv smartdns smartdns1
           mv smartdns1/package/openwrt .
           mv openwrt smartdns
           rm -rf smartdns1
-          
+
           cp -r ../../../package/luci-app-smartdns .
-          
+
       - name: Install Clash Binaries
         run: |
           cd friendlywrt-rk3328/friendlywrt/package/base-files/files
