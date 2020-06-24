@@ -1,7 +1,3 @@
-## 20200624
-* 添加 nfs client
-* disable adguard-home
-
 ## 20200515
 * Kernel 5.4.40
 * 支持 RTL8812AU
