@@ -1,3 +1,14 @@
+## 20200815
+* 开启 luci-app-adguardhome
+* 开启 luci-app-jd-dailybonus
+* 替换 node 为 https://github.com/nxhack/openwrt-node-packages/
+
+## 20200809
+* 新增 luci-app-oled
+
+## 20200723
+* Docker
+
 ## 20200718
 * Kernel 5.4.50
 * Clash 更新到 1.0.0
@@ -58,3 +69,5 @@
 ## 20200226
 * 添加 frpc 和 npc
 * 支持 Full Cone NAT
+
+2
