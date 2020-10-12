@@ -1,3 +1,7 @@
+## 20201012
+* Clash 更新到 v1.2.0
+* 开启 luci-mod-rpc
+
 ## 20200909
 * 更新 SmartDNS
 * 更新 OpenClash TUN Url
