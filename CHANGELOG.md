@@ -1,6 +1,7 @@
 ## 20201012
 * Clash 更新到 v1.2.0
 * 开启 luci-mod-rpc
+* 移除 luci-app-jd-dailybonus
 
 ## 20200909
 * 更新 SmartDNS
