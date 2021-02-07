@@ -1,3 +1,13 @@
+## 20210206
+* 开机挂载 Docker 资料分区
+
+## 20210202
+* Make OTA Work Again
+
+## 20210130
+* 更新 netdata
+* 修复 OpenClash 依赖问题
+
 ## 20210124
 * 修复 frp 无法启动的问题
 
@@ -97,3 +107,4 @@
 ## 20200226
 * 添加 frpc 和 npc
 * 支持 Full Cone NAT
+
